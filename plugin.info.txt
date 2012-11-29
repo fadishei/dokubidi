@@ -1,0 +1,7 @@
+base   dokubidi
+author Hamid Fadishei
+email  fadishei@yahoo.com
+date   2012-11-29
+name   dokubidi
+desc   Bidirectional text plugin for DokuWiki
+url    https://github.com/fadishei/dokubidi 
